@@ -32,4 +32,4 @@ open index.html
 ```
 # Screenshot
 
-![Screenshot](https://github.com/shrig0620/Fun-Fact-using-Pieces/Screenshot(136).png)
+![Screenshot](https://github.com/shrig0620/Fun-Fact-using-Pieces/Screenshot (136).png)
