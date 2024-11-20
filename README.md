@@ -30,6 +30,3 @@ git clone https://github.com/yourusername/fun-facts.git
 cd fun-facts
 open index.html
 ```
-# Screenshot
-
-![Screenshot](https://github.com/shrig0620/Fun-Fact-using-Pieces/Screenshot (136).png)
