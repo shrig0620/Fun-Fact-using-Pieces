@@ -25,6 +25,8 @@ This project is a simple, interactive webpage that displays fun facts about me. 
 
 To run this project locally, clone the repository and open the `index.html` file in your browser.
 
+##Deployment Link : https://shrig0620.github.io/Fun-Fact-using-Pieces/
+
 ```bash
 git clone https://github.com/yourusername/fun-facts.git
 cd fun-facts
